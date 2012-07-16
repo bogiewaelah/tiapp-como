@@ -13,5 +13,5 @@
     new Models(Como);
     Como.db.models.initialize();
 
-    new MainWindow(Como).open();
+    new MainWindow(Como).create().open();
 }());

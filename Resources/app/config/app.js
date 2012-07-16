@@ -17,6 +17,6 @@ module.exports = {
 
     /** Models to load **/
     models: [
-        {name: 'User', truncate: true}
+        {name: 'MealCatering'}
     ]
 };
